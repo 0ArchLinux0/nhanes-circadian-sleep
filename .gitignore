@@ -1,0 +1,37 @@
+# AI / editor traces
+.cursor/
+*.cursor*
+agent-transcripts/
+.agent*
+
+# Paper drafts, AI-generated content
+paper_draft.md
+paper.txt
+
+# Exclude Cureus folder
+Cureus/
+
+# Generated outputs (reproducible from code)
+outputs/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.eggs/
+*.egg-info/
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc notes (not code)
+Physica+Pubmed
+Scientific Reports Rules.txt
+
+# PAXHR_H.xpt (~145MB) exceeds GitHub 100MB limit
+PAXHR_H.xpt
+PAXHR_H.XPT

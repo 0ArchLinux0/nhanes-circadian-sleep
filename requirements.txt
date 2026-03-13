@@ -1,0 +1,12 @@
+# NHANES 2013-2014 Sleep Disorder Prediction
+# 7-Day Paper Hack - Park Min-jun (Med-Hacker)
+# Python 3.10+
+
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+shap>=0.43.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pyreadstat>=1.2.0
